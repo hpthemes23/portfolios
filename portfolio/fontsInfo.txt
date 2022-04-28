@@ -1,0 +1,28 @@
+Font 1: Comfortaa
+		Copyright: 2011 The Comfortaa Project Authors
+		Version: 1.1
+		License: SIL OPEN FONT LICENSE
+		License URI: http://scripts.sil.org/OFL
+		Google Fonts Link: https://fonts.googleapis.com/css2?family=Comfortaa&display=swap
+		Download Link: https://fonts.google.com/specimen/Comfortaa
+Font 2: Fascinate
+		Copyright: 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI)
+		Version: 1.1
+		License: SIL OPEN FONT LICENSE
+		License URI: http://scripts.sil.org/OFL
+		Google Fonts https://fonts.googleapis.com/css2?family=Fascinate&display=swap
+		Download Link: https://fonts.google.com/specimen/Fascinate
+Font 3: Mitr
+		Copyright: SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+		Version: 1.1
+		License: SIL OPEN FONT LICENSE
+		License URI: http://scripts.sil.org/OFL
+		Google Fonts Link: https://fonts.googleapis.com/css2?family=Mitr:wght@600&display=swap
+		Download Link: https://fonts.google.com/specimen/Mitr
+Font 4: Sonsie One
+		Copyright: 2011 by Sorkin Type Co
+		Version: 1.1
+		License: SIL OPEN FONT LICENSE
+		License URI: http://scripts.sil.org/OFL
+		Google Fonts Link: https://fonts.googleapis.com/css2?family=Sonsie+One&display=swap
+		Download Link: https://fonts.google.com/specimen/Sonsie+One
